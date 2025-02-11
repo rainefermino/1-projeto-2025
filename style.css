@@ -1,25 +1,26 @@
-img{
-width: 100px;
+img {
+    width: 100px;
 
 }
 
-.cabecalho{
-width: 1400px;
-height: 100px;
-background-color: rgb(175, 137, 211);
+.cabecalho {
+    width: 1400px;
+    height: 100px;
+    background-color: rgb(175, 137, 211);
 
 }
 
-.primeirasecao{
- width: 1400px;
-height: 500px;
-background-color: rgb(116, 45, 182);
+.primeirasecao {
+    display: flex;
+    width: 1400px;
+    height: 500px;
+    background-color: rgb(116, 45, 182);
 
 }
 
-.divisao{
- width: 200px;
- height: 200px;
- background-color: rgb(175, 137, 211);
- 
+.divisao {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(175, 137, 211);
+
 }
