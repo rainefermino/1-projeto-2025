@@ -4,8 +4,15 @@ width: 100px;
 }
 
 .cabecalho{
-width: 1000px;
+width: 1400px;
 height: 100px;
-background-color: blueviolet;
+background-color: rgb(174, 131, 214);
+
+}
+
+.primeirasecao{
+ width: 1400px;
+height: 100px;
+background-color: rgb(116, 45, 182);
 
 }
